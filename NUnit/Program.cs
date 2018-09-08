@@ -12,7 +12,7 @@ namespace NUnit
         {
             //changes
             var str = "string";
-            var appNow = "branch new string : edit from master";
+            var appNow = "branch new string : edit from branch";
         }
     }
 }
