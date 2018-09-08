@@ -10,8 +10,9 @@ namespace NUnit
     {
         static void Main(string[] args)
         {
-            //change
+            //changes
             var str = "string";
+            var appNow = "branch new string";
         }
     }
 }
